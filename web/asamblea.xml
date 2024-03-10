@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="asamblea.xsl" type="text/xsl"?>
+<eventos>
+<!--  excursion  -->
+	<excursion dificultad="media" tipo="circular">
+		<ruta>Gorbea por Saldropo</ruta>
+		<distancia>15.5</distancia>
+		<desnivel>950</desnivel>
+		<tiempo>03:45:00</tiempo>
+		<salida dia="2021-03-01" hora="08:00:00">Estación de autobuses</salida>
+		<precio>20.5</precio>
+		<plazas>60</plazas>
+	</excursion>
+	<excursion dificultad="alta" tipo="circular">
+		<ruta>Gorbea por Saldropo</ruta>
+		<distancia>15.5</distancia>
+		<desnivel>950</desnivel>
+		<tiempo>03:45:00</tiempo>
+		<salida dia="2021-03-01" hora="08:00:00">Estación de autobuses</salida>
+		<precio>20.5</precio>
+		<plazas>60</plazas>
+	</excursion>
+	<excursion dificultad="baja" tipo="circular">
+		<ruta>Gorbea por Saldropo</ruta>
+		<distancia>15.5</distancia>
+		<desnivel>950</desnivel>
+		<tiempo>03:45:00</tiempo>
+		<salida dia="2021-03-01" hora="08:00:00">Estación de autobuses</salida>
+		<precio>20.5</precio>
+		<plazas>60</plazas>
+	</excursion>
+	<excursion dificultad="media" tipo="circular">
+		<ruta>Gorbea por Saldropo</ruta>
+		<distancia>15.5</distancia>
+		<desnivel>950</desnivel>
+		<tiempo>03:45:00</tiempo>
+		<salida dia="2021-03-01" hora="08:00:00">Estación de autobuses</salida>
+		<precio>20.5</precio>
+		<plazas>60</plazas>
+	</excursion>
+
+	<!--  carrera  -->
+	<carrera>
+		<nombre>NEGU TRAIL 1</nombre>
+		<dia>2021-02-07</dia>
+		<sitio provincia="Gipuzkoa">Berastegi</sitio>
+		<kilometros>17.2</kilometros>
+		<participantes>90</participantes>
+		<informacion tipo="web">http://www.rockthesport.com/es/evento/negu-trail</informacion>
+	</carrera>
+	<carrera>
+		<nombre>NEGU TRAIL 2</nombre>
+		<dia>2021-02-07</dia>
+		<sitio provincia="Gipuzkoa">Berastegi</sitio>
+		<kilometros>17.2</kilometros>
+		<participantes>90</participantes>
+		<informacion tipo="web">http://www.rockthesport.com/es/evento/negu-trail</informacion>
+	</carrera>
+	<carrera>
+		<nombre>NEGU TRAIL 3</nombre>
+		<dia>2021-02-07</dia>
+		<sitio provincia="Gipuzkoa">Berastegi</sitio>
+		<kilometros>17.2</kilometros>
+		<participantes>90</participantes>
+		<informacion tipo="web">http://www.rockthesport.com/es/evento/negu-trail</informacion>
+	</carrera>
+	<carrera>
+		<nombre>NEGU TRAIL 4</nombre>
+		<dia>2021-02-07</dia>
+		<sitio provincia="Gipuzkoa">Berastegi</sitio>
+		<kilometros>17.2</kilometros>
+		<participantes>90</participantes>
+		<informacion tipo="web">http://www.rockthesport.com/es/evento/negu-trail</informacion>
+	</carrera>
+	<carrera>
+		<nombre>NEGU TRAIL 5</nombre>
+		<dia>2021-02-07</dia>
+		<sitio provincia="Gipuzkoa">Berastegi</sitio>
+		<kilometros>17.2</kilometros>
+		<participantes>90</participantes>
+		<informacion tipo="web">http://www.rockthesport.com/es/evento/negu-trail</informacion>
+	</carrera>
+	<carrera>
+		<nombre>NEGU TRAIL 6</nombre>
+		<dia>2021-02-07</dia>
+		<sitio provincia="Gipuzkoa">Berastegi</sitio>
+		<kilometros>17.2</kilometros>
+		<participantes>90</participantes>
+		<informacion tipo="web">http://www.rockthesport.com/es/evento/negu-trail</informacion>
+	</carrera>
+
+	<!--  asamblea  -->
+	<asamblea>
+		<convocatoria tipo="ordinaria">
+			<ubicacion>Sede del club</ubicacion>
+			<fecha>2021-04-01</fecha>
+			<hora>20:00:00</hora>
+		</convocatoria>
+		<orden_dia>
+			<tema>Lectura y aprobación del acta anterior</tema>
+			<tema>Aprobación de Cuentas Anuales</tema>
+			<tema>Aprobación Memoria Deportiva</tema>
+			<tema>Plan de actuación</tema>
+			<tema>Aprobación de los presupuestos</tema>
+			<tema>Propuestas a la Asamblea</tema>	
+		</orden_dia>
+	</asamblea>
+	<asamblea>
+		<convocatoria tipo="extraordinaria">
+			<ubicacion>Sede del club</ubicacion>
+			<fecha>2022-01-01</fecha>
+			<hora>20:00:00</hora>
+		</convocatoria>
+		<orden_dia>
+			<tema>Lectura y aprobación del acta anterior</tema>
+			<tema>Aprobación de Cuentas Anuales</tema>
+			<tema>Aprobación Memoria Deportiva</tema>
+			<tema>Plan de actuación</tema>
+			<tema>Aprobación de los presupuestos</tema>
+			<tema>Propuestas a la Asamblea</tema>	
+		</orden_dia>
+	</asamblea>
+</eventos>

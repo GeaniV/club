@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="noticias.xsl" type="text/xsl"?>
+<rss version="2.0" xml:base="https://www.fcdme.es/agenda" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Agenda FCDME</title>
+    <link>https://www.fcdme.es/agenda</link>
+    <description></description>
+    <language>es</language>
+    <atom:link href="https://www.fcdme.es/rss/agenda" rel="self" type="application/rss+xml" />
+	
+  <item>
+    <title>Alex Txikón: "Los ochomiles están sobrevalorados"</title>
+    <link>https://elpais.com/deportes/2020-12-11/alex-txikon-los-ochomiles-estan-sobrevalorados.html</link>
+    <description>El alpinista vizcaíno se cita este invierno con el Manaslu y explica su relación con los sherpas que le han ayudado en el Everest en 2017, 2018 y 2019.</description>
+    <pubDate>Fri, 21 Aug 2020 14:12:13 +0200</pubDate>
+	<dc:creator>Agenda FCDME</dc:creator>
+	<guid isPermaLink="false">3232</guid>
+  </item>    
+	<item>
+    <title>CALENDARIO CURSOS ECAM PARA EL AÑO 2021</title>
+    <link>https://www.fcdme.es/3246</link>
+    <description>Cursos que nuestra ECAM (Escuela Cántabra de alta Montaña) nos tiene preparados para el año 2021</description>
+    <pubDate>Wed, 23 Dec 2020 19:46:17 +0100</pubDate>
+	<dc:creator>Agenda FCDME</dc:creator>
+	<guid isPermaLink="false">3246</guid>
+	</item>
+
+  <item>
+    <title>CURSO DE ALPINISMO NIVEL 2</title>
+    <link>https://www.fcdme.es/3159</link>
+    <description>A realizar 5, 7 y 8 de marzo de 2020</description>
+     <pubDate>Wed, 12 Feb 2020 14:24:29 +0100</pubDate>
+ <dc:creator>Agenda FCDME</dc:creator>
+ <guid isPermaLink="false">3159</guid>
+  </item>
+  <item>
+    <title>CURSO DE ESQUI DE MONTAÑA NIVEL 2</title>
+    <link>https://www.fcdme.es/3126</link>
+    <description>A realizar el 27, 29 febrero y 1 de marzo</description>
+     <pubDate>Thu, 30 Jan 2020 09:26:57 +0100</pubDate>
+ <dc:creator>Agenda FCDME</dc:creator>
+ <guid isPermaLink="false">3126</guid>
+  </item>
+  <item>
+    <title>CURSO DE ESQUI DE MONTAÑA NIVEL 1</title>
+    <link>https://www.fcdme.es/3073</link>
+    <description>Se realizará el 13-15 y 16 de febrero</description>
+     <pubDate>Tue, 14 Jan 2020 10:31:56 +0100</pubDate>
+ <dc:creator>Agenda FCDME</dc:creator>
+ <guid isPermaLink="false">3073</guid>
+  </item>
+  </channel>
+</rss>
